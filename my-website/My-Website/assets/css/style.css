@@ -30,7 +30,6 @@ a:hover {
  * Transition elsements
 /* ---------------------------------------------- */
 
-
 .navbar a,
 .form-control {
 	-webkit-transition: all 0.4s ease-in-out 0s;
