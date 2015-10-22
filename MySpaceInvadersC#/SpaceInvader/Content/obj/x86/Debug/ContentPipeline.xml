@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-04-10T02:25:41.7538594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv1.png</Source>
+      <Name>inv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv1.xnb</Output>
+      <Time>2013-04-10T02:15:32.6190189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv12.png</Source>
+      <Name>inv12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv12.xnb</Output>
+      <Time>2013-04-10T02:08:08.8776383+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv2.png</Source>
+      <Name>inv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv2.xnb</Output>
+      <Time>2013-04-10T00:23:36.5658826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv22.png</Source>
+      <Name>inv22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv22.xnb</Output>
+      <Time>2013-04-10T00:23:36.5658826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv3.png</Source>
+      <Name>inv3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv3.xnb</Output>
+      <Time>2013-04-10T01:20:53.2174478+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv32.png</Source>
+      <Name>inv32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv32.xnb</Output>
+      <Time>2013-04-10T01:20:53.2174478+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Starfield.png</Source>
+      <Name>Starfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Starfield.xnb</Output>
+      <Time>2013-04-10T03:15:15.6699577+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Homescreen.png</Source>
+      <Name>Homescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Homescreen.xnb</Output>
+      <Time>2013-04-10T03:45:45.0825941+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Endscreen.png</Source>
+      <Name>Endscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Endscreen.xnb</Output>
+      <Time>2013-04-10T04:06:21.5003131+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Aircraft.png</Source>
+      <Name>Aircraft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Aircraft.xnb</Output>
+      <Time>2013-04-10T02:24:02.2171662+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2013-04-10T23:37:11.2135077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv4.png</Source>
+      <Name>inv4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv4.xnb</Output>
+      <Time>2013-04-10T22:28:11.9957579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inv42.png</Source>
+      <Name>inv42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv42.xnb</Output>
+      <Time>2013-04-10T22:18:53.9538398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HelpBackground.png</Source>
+      <Name>HelpBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\HelpBackground.xnb</Output>
+      <Time>2013-04-12T21:17:34.9941562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AlienMissileImg.png</Source>
+      <Name>AlienMissileImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg.xnb</Output>
+      <Time>2013-04-11T01:53:02.8417541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AlienBoss.png</Source>
+      <Name>AlienBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienBoss.xnb</Output>
+      <Time>2013-04-11T03:56:49.9065579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AlienMissileImg2.png</Source>
+      <Name>AlienMissileImg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg2.xnb</Output>
+      <Time>2013-04-11T18:19:07.2686316+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BossMissileImg.png</Source>
+      <Name>BossMissileImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissileImg.xnb</Output>
+      <Time>2013-04-11T19:20:31.0796642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet2.png</Source>
+      <Name>bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet2.xnb</Output>
+      <Time>2013-04-11T20:43:51.8116897+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet3.png</Source>
+      <Name>Bullet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bullet3.xnb</Output>
+      <Time>2013-04-11T21:47:06.7037451+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2013-04-10T03:44:26.8381188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.wav</Source>
+      <Name>shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2013-04-09T03:21:12.2817205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Star Wars.wav</Source>
+      <Name>Star Wars</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Star Wars.xnb</Output>
+      <Time>2013-04-09T05:15:39.8885252+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Invaderkilled.wav</Source>
+      <Name>Invaderkilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Invaderkilled.xnb</Output>
+      <Time>2013-04-10T04:58:33.5024534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Victory.wav</Source>
+      <Name>Victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Victory.xnb</Output>
+      <Time>2013-04-10T04:47:49.0845948+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerKilled.wav</Source>
+      <Name>PlayerKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\PlayerKilled.xnb</Output>
+      <Time>2013-04-11T01:35:56.4400473+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AlienMissile.wav</Source>
+      <Name>AlienMissile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissile.xnb</Output>
+      <Time>2013-04-11T01:39:01.5246335+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-04-09T03:26:52.2351647+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOversong.wav</Source>
+      <Name>GameOversong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOversong.xnb</Output>
+      <Time>2013-04-10T20:13:30.2725098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Introsong.wav</Source>
+      <Name>Introsong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Introsong.xnb</Output>
+      <Time>2013-04-10T20:22:31.8304852+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BossMissile.wav</Source>
+      <Name>BossMissile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissile.xnb</Output>
+      <Time>2013-04-11T19:32:04.5813302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bosskilled.wav</Source>
+      <Name>Bosskilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bosskilled.xnb</Output>
+      <Time>2013-04-10T04:28:39.5208435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>JetSound.wav</Source>
+      <Name>JetSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\JetSound.xnb</Output>
+      <Time>2013-04-10T21:16:32.3708335+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot2.wav</Source>
+      <Name>shoot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot2.xnb</Output>
+      <Time>2013-04-11T21:08:55.9327205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot3.wav</Source>
+      <Name>shoot3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot3.xnb</Output>
+      <Time>2013-04-11T21:56:01.0293068+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon switch2.wav</Source>
+      <Name>Weapon switch2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Weapon switch2.xnb</Output>
+      <Time>2013-04-11T22:17:05.3126196+01:00</Time>
+    </Item>
+    <Item>
+      <Source>weapon switch1.wav</Source>
+      <Name>weapon switch1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\weapon switch1.xnb</Output>
+      <Time>2013-04-11T22:22:56.8107242+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-07T01:04:00.0344426+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

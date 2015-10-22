@@ -1,0 +1,177 @@
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\BottomRow.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\explosion.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\shoot.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\explosion.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\shoot.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\shoot.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.csprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.csprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Star Wars.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv22.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv32.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Starfield.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Homescreen.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\EndScreen.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Victory.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Aircraft.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv4.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv42.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\HelpBackground.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\PlayerKilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienBoss.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissile.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOversong.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Introsong.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissile.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissileImg.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bosskilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\JetSound.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bullet3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Weapon switch2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\weapon switch1.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv1.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv12.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv22.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv32.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Starfield.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Homescreen.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Endscreen.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Aircraft.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv4.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\inv42.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\HelpBackground.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienBoss.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissileImg2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissileImg.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\bullet2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bullet3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Star Wars.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Invaderkilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Victory.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\PlayerKilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\AlienMissile.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\GameOversong.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Introsong.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\BossMissile.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Bosskilled.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\JetSound.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\shoot3.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\Weapon switch2.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\Content\weapon switch1.xnb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\bin\x86\Debug\SpaceInvader.pdb
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.csprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.exe
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\obj\x86\Debug\SpaceInvader.pdb

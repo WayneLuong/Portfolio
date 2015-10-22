@@ -1,0 +1,9 @@
+Content\Starfield1024x768.xnb
+Content\LaserBase.xnb
+Content\bullet.xnb
+Content\inv1.xnb
+Content\inv12.xnb
+Content\invaderkilled.xnb
+Content\explosion.xnb
+Content\shoot.xnb
+Content\GameFont.xnb

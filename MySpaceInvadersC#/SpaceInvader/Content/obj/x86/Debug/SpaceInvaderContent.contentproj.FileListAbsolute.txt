@@ -1,0 +1,3 @@
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Week21\SpaceInvaderStages\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\SpaceInvaderContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\My Space Invaders\SpaceInvader\Content\obj\x86\Debug\SpaceInvaderContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\BSc Computer Science\Year 1\Software development\Space Invader projects\My Space Invaders\SpaceInvader\Content\obj\x86\Debug\SpaceInvaderContent.contentprojResolveAssemblyReference.cache
